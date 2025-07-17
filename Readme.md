@@ -15,12 +15,12 @@ Proyek ini merupakan implementasi sistem rekomendasi tempat wisata menggunakan p
 
 ## 🗂️ Struktur Folder
 ```
-├───0. Dataset <br>
-├───1. Text Preprocessing<br>
-│   └───Save Model<br>
-├───2. Rekomendasi Item to Item<br>
-├───3. Rekomendasi User to Item (CBF)<br>
-└───4. Evaluasi User to Item<br>
+├───0. Dataset
+├───1. Text Preprocessing
+│   └───Save Model
+├───2. Rekomendasi Item to Item
+├───3. Rekomendasi User to Item (CBF)
+└───4. Evaluasi User to Item
 ```
 
 ## ⚙️ Instalasi
